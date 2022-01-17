@@ -1,6 +1,7 @@
 Um algoritmo genético é um algoritmo de busca inspirado na teoria de Darwin e Mendel. Esse algoritmo trabalha gerando cruzamento entre os melhores indivíduos de uma população para gerar uma população mais próxima do resultado esperado. 
 
 A saída da implementação:
+
 ![Saída](Saida.png)
 
 Mais sobre algoritmos genéticos:
